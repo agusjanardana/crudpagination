@@ -1,0 +1,19 @@
+{
+  "name": "pagination",
+  "version": "1.0.0",
+  "description": "belajar page",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "agus janardnaa",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "faker": "^5.1.0",
+    "mongoose": "^5.11.0",
+    "sweetalert": "^2.1.2"
+  }
+}
